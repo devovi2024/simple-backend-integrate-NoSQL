@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Sample Product",
+    "short_des": "This is a sample product description.",
+    "price": 100,
+    "discount": 10,
+    "image": "sample-image-url",
+    "stock": "In Stock",
+    "star": "5",
+    "remark": "Bestseller",
+    "_id": "67100d3362e1c29a0669deb9",
+    "__v": 0
+  },
+  {
+    "title": "n",
+    "short_des": "b",
+    "price": 100,
+    "discount": 200,
+    "image": "no",
+    "stock": "5",
+    "star": "5",
+    "remark": "5",
+    "_id": "671014533a4d03759031e576",
+    "__v": 0
+  },
+  {
+    "title": "n",
+    "short_des": "b",
+    "price": 100,
+    "discount": 200,
+    "image": "no",
+    "stock": "5",
+    "star": "5",
+    "remark": "5",
+    "_id": "6710149b9677c4163118eea1",
+    "__v": 0
+  },
+  {
+    "title": "n",
+    "short_des": "b",
+    "price": 100,
+    "discount": 200,
+    "image": "no",
+    "stock": "5",
+    "star": "5",
+    "remark": "5",
+    "_id": "67101549d26f794763809966",
+    "__v": 0
+  }
+]
